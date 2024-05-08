@@ -1,0 +1,89 @@
+﻿work,book,noCh,bookName,workName
+ot,gen,50,Genesis,Old Testament
+ot,ex,40,Exodus,Old Testament
+ot,lev,27,Leviticus,Old Testament
+ot,num,36,Numbers,Old Testament
+ot,deut,34,Deuteronomy,Old Testament
+ot,josh,24,Joshua,Old Testament
+ot,judg,21,Judges,Old Testament
+ot,ruth,4,Ruth,Old Testament
+ot,1-sam,31,1 Samuel,Old Testament
+ot,2-sam,24,2 Samuel,Old Testament
+ot,1-kgs,22,1 Kings,Old Testament
+ot,2-kgs,25,2 Kings,Old Testament
+ot,1-chr,29,1 Chronicles,Old Testament
+ot,2-chr,36,2 Chronicles,Old Testament
+ot,ezra,10,Ezra,Old Testament
+ot,neh,13,Nehemiah,Old Testament
+ot,esth,10,Esther,Old Testament
+ot,job,42,Job,Old Testament
+ot,ps,150,Psalms,Old Testament
+ot,prov,31,Proverbs,Old Testament
+ot,eccl,12,Ecclesiates,Old Testament
+ot,song,8,Songs of Solomon,Old Testament
+ot,isa,66,Isaiah,Old Testament
+ot,jer,52,Jeremiah,Old Testament
+ot,lam,5,Lamentations,Old Testament
+ot,ezek,48,Ezekiel,Old Testament
+ot,dan,12,Daniel,Old Testament
+ot,hosea,14,Hosea,Old Testament
+ot,joel,3,Joel,Old Testament
+ot,amos,9,Amos,Old Testament
+ot,obad,1,Obadiah,Old Testament
+ot,jonah,4,Jonah,Old Testament
+ot,micah,7,Micah,Old Testament
+ot,nahum,3,Nahum,Old Testament
+ot,hab,3,Habakkuk,Old Testament
+ot,zeph,3,Zephaniah,Old Testament
+ot,hag,2,Haggai,Old Testament
+ot,zech,14,Zechariah,Old Testament
+ot,mal,4,Malachi,Old Testament
+nt,matt,28,Matthew,New Testament
+nt,mark,16,Mark,New Testament
+nt,luke,24,Luke,New Testament
+nt,john,21,John,New Testament
+nt,acts,28,Acts,New Testament
+nt,rom,16,Romans,New Testament
+nt,1-cor,16,1 Corinthians,New Testament
+nt,2-cor,13,2 Corinthians,New Testament
+nt,gal,6,Galatians,New Testament
+nt,eph,6,Ephesians,New Testament
+nt,philip,4,Philippians,New Testament
+nt,col,4,Colossians,New Testament
+nt,1-thes,5,1 Thessalonians,New Testament
+nt,2-thes,3,2 Thessalonians,New Testament
+nt,1-tim,6,1 Timothy,New Testament
+nt,2-tim,4,2 Timothy,New Testament
+nt,titus,3,Titus,New Testament
+nt,philem,1,Philemon,New Testament
+nt,heb,13,Hebrews,New Testament
+nt,james,5,James,New Testament
+nt,1-pet,5,1 Peter,New Testament
+nt,2-pet,3,2 Peter,New Testament
+nt,1-jn,5,1 John,New Testament
+nt,2-jn,1,2 John,New Testament
+nt,3-jn,1,3 John,New Testament
+nt,jude,1,Jude,New Testament
+nt,rev,22,Revelation,New Testament
+bofm,1-ne,22,1 Nephi,Book of Mormon
+bofm,2-ne,33,2 Nephi,Book of Mormon
+bofm,jacob,7,Jacob,Book of Mormon
+bofm,enos,1,Enos,Book of Mormon
+bofm,jarom,1,Jarom,Book of Mormon
+bofm,omni,1,Omni,Book of Mormon
+bofm,w-of-m,1,Words of Mormon,Book of Mormon
+bofm,mosiah,1,Mosiah,Book of Mormon
+bofm,alma,63,Alma,Book of Mormon
+bofm,hel,16,Helaman,Book of Mormon
+bofm,3-ne,30,3 Nephi,Book of Mormon
+bofm,4-ne,1,4 Nephi,Book of Mormon
+bofm,morm,9,Mormon,Book of Mormon
+bofm,ether,15,Ether,Book of Mormon
+bofm,moro,10,Moroni,Book of Mormon
+dc-testament,dc,138,D&C,D&C
+dc-testament,od,2,D&C Official Declaration,D&C
+pgp,moses,8,Moses,Pearl of Great Price
+pgp,abr,5,Abraham,Pearl of Great Price
+pgp,js-m,1,Joseph Smith - Matthew,Pearl of Great Price
+pgp,js-h,1,Joseph Smith - History,Pearl of Great Price
+pgp,a-of-f,1,Articles of Faith,Pearl of Great Price
